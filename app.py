@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from pandas_profiling import ProfileReport
+from ydata_profiling import ProfileReport #update pandas_profiling >> ydata_profiling on 2023-OCT-22
 from streamlit_pandas_profiling import st_profile_report
 import sys
 import os
