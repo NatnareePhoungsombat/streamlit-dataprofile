@@ -1,3 +1,3 @@
 # streamlit Learning by G Sudheer
 
-Link: [https://natnareephoungsombat-streamlit-dataprofile-app-wasof7.streamlit.app/]
+Link: [Data Profiler](https://natnareephoungsombat-streamlit-dataprofile-app-wasof7.streamlit.app/)
